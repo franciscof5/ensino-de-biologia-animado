@@ -2,7 +2,7 @@
 by Francisco Mat
 Made in 2004
 
-Animated clips for classes showing biologie priciples. Filmes de Biologia em Flash feitos para colégios. Iniciativa do prof. José Ivo Rocha Campos Filhos
+Animated clips for classes showing biologie priciples. Filmes de ensino Biologia em Flash feitos para colégios. Iniciativa do prof. José Ivo Rocha Campos Filhos
 
 # Meiosis
 Meiose
@@ -12,7 +12,7 @@ Meiose
 # Protein Shyntesis
 Síntese de Proteína
 
-![Meiosis](2018-06-10-biologia-meiose.png)
+![Meiosis](2018-06-10-sintese-proteina.png)
 
 # Complete Biology Kindgons
 Reinos de Biologia Comples
